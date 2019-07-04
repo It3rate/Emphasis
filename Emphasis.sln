@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.421
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Empahsis", "Empahsis\Empahsis.csproj", "{C9A492D5-DDBB-427A-AC67-0E16D622F548}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Emphasis", "Empahsis\Emphasis.csproj", "{C9A492D5-DDBB-427A-AC67-0E16D622F548}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

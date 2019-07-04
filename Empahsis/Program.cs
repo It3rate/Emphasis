@@ -16,6 +16,9 @@ namespace Empahsis
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
+
+            PronounceParser pp = new PronounceParser();
+
             Application.Run(new Form1());
         }
     }
