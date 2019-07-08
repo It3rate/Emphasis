@@ -17,7 +17,8 @@ namespace Empahsis
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
 
-            PronounceParser pp = new PronounceParser();
+            //PronounceParser pp = new PronounceParser();
+            FastTextEmbedding fte = new FastTextEmbedding();
 
             Application.Run(new Form1());
         }
